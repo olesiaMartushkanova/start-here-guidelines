@@ -4798,3 +4798,12 @@
 -[@IMero19](https://github.com/IMero19)
 
 -[@markubianis](https://github.com/markubianis)
+
+-[@rsharma941](https://github.com/rsharma941)
+
+-[@Jaime-Ginesky](https://github.com/Jaime-Ginesky)
+
+-[@IAmJesseP](https://github.com/IamJesseP)
+
+-[@ClaudioIrianni](https://github.com/ClaudioIrianni)
+[@fwhoami](https://github.com/fwhoami)
